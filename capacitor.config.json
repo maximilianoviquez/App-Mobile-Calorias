@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "appcalcount",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

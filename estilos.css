@@ -1,0 +1,97 @@
+/* estilos.css */
+
+/* Estilos globales */
+body, ion-app {
+    --ion-background-color: #ffffff;
+    --ion-color-base: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Estilo del encabezado */
+ion-header {
+    --background: #ff6600; /* Naranja */
+    --color: #ffffff; /* Blanco */
+}
+
+ion-toolbar {
+    --background: #ff6600; /* Naranja */
+    --color: #ffffff; /* Blanco */
+}
+
+ion-title {
+    --color: #ffffff; /* Blanco */
+}
+
+/* Estilos de los botones */
+ion-button {
+    --background: #ff6600; /* Naranja */
+    --color: #ffffff; /* Blanco */
+    --background-activated: #cc5200; /* Naranja oscuro */
+    --background-focused: #ff8533; /* Naranja claro */
+}
+
+/* Estilos de los ítems */
+ion-item {
+    --background: #ffffff;
+    --color: #000000;
+}
+
+ion-item[button] {
+    --background: #ff6600; /* Naranja */
+    --color: #ffffff; /* Blanco */
+}
+
+/* Estilos de las etiquetas */
+ion-label {
+    color: #000000;
+}
+
+/* Estilos de los inputs */
+ion-input {
+    --background: #ffffff;
+    --color: #000000;
+}
+
+/* Estilos de las listas */
+ion-list {
+    --background: #ffffff;
+    --color: #000000;
+}
+
+/* Estilos de las tarjetas */
+ion-card {
+    --background: #ffffff;
+    --color: #000000;
+}
+
+ion-card-header {
+    --background: #ff6600; /* Naranja */
+    --color: #ffffff; /* Blanco */
+}
+
+ion-card-title {
+    --color: #ffffff; /* Blanco */
+}
+
+ion-card-content {
+    --background: #ffffff;
+    --color: #000000;
+}
+
+/* Estilos del menú */
+ion-menu {
+    --background: #ffffff;
+    --color: #000000;
+}
+
+/* Estilos del contenido */
+ion-content {
+    --background: #ffffff;
+    --color: #000000;
+}
+
+/* Estilos del mapa */
+#mapa {
+    border: 2px solid #ff6600; /* Naranja */
+}
