@@ -9,7 +9,7 @@ Esta es una aplicacion mobile cuenta calorias creada con html,css,js e ionic fra
 
 
 ## Ver ejemplo en vivo
-- [https://maximilianoviquez.github.io/App-Mobile-Calorias/]((https://maximilianoviquez.github.io/App-Mobile-Calorias/))
+*(https://maximilianoviquez.github.io/App-Mobile-Calorias/))
 
 )
 ## Instalacion
